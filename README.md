@@ -1,6 +1,6 @@
 # 🛒 Product Store
 
-> 🌱 Built as part of my personal journey exploring full-stack development — experimenting with the MERN stack, modern UI libraries, and deployment.
+🌱 Built as part of my personal journey exploring full-stack development — experimenting with the MERN stack, modern UI libraries, and deployment.
 
 A full-stack MERN product management app where you can create, view, update, and delete products — with a clean UI, dark/light mode, and live toast notifications.
 
@@ -8,7 +8,7 @@ A full-stack MERN product management app where you can create, view, update, and
 
 ---
 
-## ✨ Features
+## Features
 
 - 📦 View all products in a responsive grid
 - ➕ Add new products with name, price, and image URL
