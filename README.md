@@ -1,5 +1,7 @@
 # 🛒 Product Store
 
+> 🌱 Built as part of my personal journey exploring full-stack development — experimenting with the MERN stack, modern UI libraries, and deployment.
+
 A full-stack MERN product management app where you can create, view, update, and delete products — with a clean UI, dark/light mode, and live toast notifications.
 
 🌐 **Live Demo:** [https://product-store-qzbn.onrender.com/](https://product-store-qzbn.onrender.com/)
